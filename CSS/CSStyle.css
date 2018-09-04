@@ -1,4 +1,9 @@
-{
+h1 {
 	color: #cc66ff;
 	font-size: 40px;
+}
+
+body{
+	color: #cc55bb;
+	background-color: #f5f5dc;
 }
